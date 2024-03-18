@@ -1,0 +1,46 @@
+CS 1200|First Year Seminar|||1
+CS 1210|Professional Development for Khoury Co-op|||1
+CS 1800|Discrete Structures and Seminar|FQ||5
+CS 2500|Fundamentals of Computer Science 1|ND,FQ||5
+CS 2510|Fundamentals of Computer Science 2|ND,AD|CS 2500|5
+CS 2810|Mathematics of Data Models|FQ,AD|CS 1800|4
+CS 3000|Algorithms and Data|FQ|CS 2510,CS 1800|4
+CS 3500|Object-Oriented Design|ND,AD|CS 2510|5
+CS 3650|Computer Systems||CS 2510|4
+CS 3800|Theory of Computation||CS 2510|4
+CS 4500|Software Development|WI|CS 3500|4
+CS 4530|Fundamentals of Software Engineering|WI||4
+CY 2550|Foundations of Cybersecurity|||4
+CY 3740|Systems Security||CS 3650|4
+COMM 1112|Public Speaking|EI||4
+COMM 1113|Business and Professional Speaking|EI||4
+COMM 1210|Persuasion and Rhetoric|IC, EI||4
+COMM 1511|Communication and Storytelling|EI||4
+THTR 1125|Improvisation|EI||4
+THTR 1130|Introduction to Acting|EI,IC||4
+THTR 1180|The Dynamic On-Screen Presenter|EI||4
+THTR 2345|Acting for the Camera|EI||4
+MATH 1341|Calculus 1 for Science and Engineering|FQ||4
+MATH 1365|Introduction to Mathematical Reasoning|||4
+AFAM 2600|Issues in Race, Science, and Technology|||4
+CY 4170|The Law, Ethics, and Policy of Data and Digital Technologies|ER,WI||4
+CY 5240|Cyberlaw: Privacy, Ethics, and Digital Rights|ER,WI||4
+ENGL 2150|Literature and Digital Diversity|AD,DD||4
+HIST 2220|History of Technology|DD,SI||4
+INSH 2102|Bostonography: The City through Data, Texts, Maps, and Networks|IC,SI||4
+IS 1300|Knowledge in a Digital World|ER,SI||4
+PHIL 1300|Knowledge in a Digital World|ER,SI||4
+PHIL 1145|Technology and Human Values|ER,SI||4
+SOCL 1280|The Twenty-First-Century Workplace|SI||4
+SOCL 2485|Environment, Technology, and Society|SI||4
+SOCL 4528|Computers and Society|DD,SI||4
+EECE 2322|Fundamentals of Digital Design and Computer Organization|||5
+ENVR 1200|Dynamic Earth|ND||4
+ENVR 1202|History of Earth and Life|ND||4
+ENVR 1203|Interpreting Earth History|ND||4
+ENVR 2310|Earth Materials|WI||4
+ENVR 2340|Earth Landforms and Processes|||4
+ENVR 3300|Geographic Information Systems|EI,AD||4
+ENVR 4500|Applied Hydrogeology|AD||4
+ENVR 5242|Ancient Marine Life|||4
+COOP 1000|Co-op|||0
